@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 
 The goal of this project is to build a page for an on demand library like below.
 
-![alt text](./public/image0.jpeg)
+![alt text](./public/image0.jpg)
 
 ## Steps to success
 
